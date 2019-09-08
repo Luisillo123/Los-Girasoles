@@ -1,2 +1,10 @@
 .header {
   font-family: roboto; }
+  .header ul {
+    margin: 0;
+    padding: 0; }
+    .header ul li {
+      display: inline-block;
+      margin: 0 10px; }
+      .header ul li a {
+        text-decoration: none; }
